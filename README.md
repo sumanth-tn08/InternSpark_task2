@@ -4,10 +4,8 @@ A full-stack task management application featuring a RESTful API backend and a m
 
 ## Project Structure
 
-The project is split into two main directories:
 
-- [**`1/`**](./1): The backend RESTful API built with **Node.js**, **Express**, and **MongoDB** (using Mongoose).
-- [**`2/`**](./2): The frontend Single-Page Application (SPA) built with **React**, **Vite**, and **React Router**.
+ The frontend Single-Page Application (SPA) built with **React**, **Vite**, and **React Router**.
 
 ---
 
