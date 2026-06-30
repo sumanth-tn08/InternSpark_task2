@@ -62,3 +62,4 @@ A complete Postman collection is included in the backend folder:
 - File path: [`1/tasks_api.postman_collection.json`](./1/tasks_api.postman_collection.json)
 
 Import this collection into Postman to easily test all backend endpoints (filtering, search, pagination, and full CRUD operations).
+# InternSpark_task2
